@@ -1,7 +1,7 @@
-baseURL = 'https://bell1101.github.io/marumado/'
+baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'My Site'
-theme = 'tale'
+theme = "tale"
 
 [menu]
 

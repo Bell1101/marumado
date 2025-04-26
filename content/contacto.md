@@ -6,8 +6,7 @@ title = 'MARUMADO'
 
 Este es un sitio web creado con Higo. ¿Te gusta?
 
-Seguro que encontraras en HUgo una herramienta excelente para desarrollar sitios de 
-contenido.
+Seguro que encontraras en HUgo UNA HERRAMIENTA PARA DEMOSTRAR QUE PUEDES HAKEAR A LA NASSA OKNO PERO ENSERIO NECESITAS MUCHO PODER
 
 Es super poderoso!!
 
