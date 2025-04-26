@@ -2,23 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://bell1101.github.io/marumado/posts/bienvenidos-a-hugo/</loc>
+    <loc>https://example.org/</loc>
+    <lastmod>2025-04-25T23:39:38-04:00</lastmod>
+  </url><url>
+    <loc>https://example.org/posts/</loc>
+    <lastmod>2025-04-25T23:39:38-04:00</lastmod>
+  </url><url>
+    <loc>https://example.org/posts/pruebanueva/</loc>
+    <lastmod>2025-04-25T23:39:38-04:00</lastmod>
+  </url><url>
+    <loc>https://example.org/posts/bienvenidos-a-hugo/</loc>
     <lastmod>2025-04-25T19:46:11-04:00</lastmod>
   </url><url>
-    <loc>https://bell1101.github.io/marumado/</loc>
-    <lastmod>2025-04-25T19:46:11-04:00</lastmod>
-  </url><url>
-    <loc>https://bell1101.github.io/marumado/posts/</loc>
-    <lastmod>2025-04-25T19:46:11-04:00</lastmod>
-  </url><url>
-    <loc>https://bell1101.github.io/marumado/posts/primer-post/</loc>
+    <loc>https://example.org/posts/primer-post/</loc>
     <lastmod>2025-04-25T19:44:46-04:00</lastmod>
   </url><url>
-    <loc>https://bell1101.github.io/marumado/contacto/</loc>
+    <loc>https://example.org/contacto/</loc>
     <lastmod>2025-04-25T19:37:29-04:00</lastmod>
   </url><url>
-    <loc>https://bell1101.github.io/marumado/categories/</loc>
+    <loc>https://example.org/categories/</loc>
   </url><url>
-    <loc>https://bell1101.github.io/marumado/tags/</loc>
+    <loc>https://example.org/tags/</loc>
   </url>
 </urlset>
