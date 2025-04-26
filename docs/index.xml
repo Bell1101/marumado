@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My Site</title>
-    <link>https://example.org/</link>
+    <link>https://bell1101.github.io/marumado/</link>
     <description>Recent content on My Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 25 Apr 2025 23:39:38 -0400</lastBuildDate>
-    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://bell1101.github.io/marumado/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pruebanueva</title>
-      <link>https://example.org/posts/pruebanueva/</link>
+      <link>https://bell1101.github.io/marumado/posts/pruebanueva/</link>
       <pubDate>Fri, 25 Apr 2025 23:39:38 -0400</pubDate>
-      <guid>https://example.org/posts/pruebanueva/</guid>
+      <guid>https://bell1101.github.io/marumado/posts/pruebanueva/</guid>
       <description>&lt;p&gt;Personalmente  creo que el resultado es estupendo!!&#xA;¿Que os ha parecido?&lt;/p&gt;</description>
     </item>
     <item>
       <title>BIENVENIDOS A LA FAMILIA DE HUGUITO</title>
-      <link>https://example.org/posts/bienvenidos-a-hugo/</link>
+      <link>https://bell1101.github.io/marumado/posts/bienvenidos-a-hugo/</link>
       <pubDate>Fri, 25 Apr 2025 19:46:11 -0400</pubDate>
-      <guid>https://example.org/posts/bienvenidos-a-hugo/</guid>
+      <guid>https://bell1101.github.io/marumado/posts/bienvenidos-a-hugo/</guid>
       <description>&lt;p&gt;Esta es la bienvenida  NECESITAS CRACK AQUI ESTA TU CRACK XDD ..&lt;/p&gt;</description>
     </item>
     <item>
       <title>FULL 4K COMO CARLOS HD</title>
-      <link>https://example.org/posts/primer-post/</link>
+      <link>https://bell1101.github.io/marumado/posts/primer-post/</link>
       <pubDate>Fri, 25 Apr 2025 19:44:46 -0400</pubDate>
-      <guid>https://example.org/posts/primer-post/</guid>
+      <guid>https://bell1101.github.io/marumado/posts/primer-post/</guid>
       <description>&lt;p&gt;Aqui esta el ONE PIECE XD &amp;hellip;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>MARUMADO</title>
-      <link>https://example.org/contacto/</link>
+      <link>https://bell1101.github.io/marumado/contacto/</link>
       <pubDate>Fri, 25 Apr 2025 19:37:29 -0400</pubDate>
-      <guid>https://example.org/contacto/</guid>
+      <guid>https://bell1101.github.io/marumado/contacto/</guid>
       <description>&lt;p&gt;Este es un sitio web creado con Higo. ¿Te gusta?&lt;/p&gt;&#xA;&lt;p&gt;Seguro que encontraras en HUgo UNA HERRAMIENTA PARA DEMOSTRAR QUE PUEDES HAKEAR A LA NASSA OKNO PERO ENSERIO NECESITAS MUCHO PODER&lt;/p&gt;&#xA;&lt;p&gt;Es super poderoso!!&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Rapido&lt;/li&gt;&#xA;&lt;li&gt;Versatil&lt;/li&gt;&#xA;&lt;li&gt;Potente&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>
