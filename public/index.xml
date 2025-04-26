@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My Site</title>
-    <link>https://bell1101.github.io/marumado/</link>
+    <link>http://localhost:1313/marumado/</link>
     <description>Recent content on My Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 25 Apr 2025 19:46:11 -0400</lastBuildDate>
-    <atom:link href="https://bell1101.github.io/marumado/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/marumado/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bienvenidos a Hugo</title>
-      <link>https://bell1101.github.io/marumado/posts/bienvenidos-a-hugo/</link>
+      <link>http://localhost:1313/marumado/posts/bienvenidos-a-hugo/</link>
       <pubDate>Fri, 25 Apr 2025 19:46:11 -0400</pubDate>
-      <guid>https://bell1101.github.io/marumado/posts/bienvenidos-a-hugo/</guid>
+      <guid>http://localhost:1313/marumado/posts/bienvenidos-a-hugo/</guid>
       <description>&lt;p&gt;Esta es la bienvenida a este sitio web&lt;/p&gt;</description>
     </item>
     <item>
       <title>Primer Post</title>
-      <link>https://bell1101.github.io/marumado/posts/primer-post/</link>
+      <link>http://localhost:1313/marumado/posts/primer-post/</link>
       <pubDate>Fri, 25 Apr 2025 19:44:46 -0400</pubDate>
-      <guid>https://bell1101.github.io/marumado/posts/primer-post/</guid>
+      <guid>http://localhost:1313/marumado/posts/primer-post/</guid>
       <description>&lt;p&gt;Aqui esta el ONE PIECE XD &amp;hellip;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>MARUMADO</title>
-      <link>https://bell1101.github.io/marumado/contacto/</link>
+      <link>http://localhost:1313/marumado/contacto/</link>
       <pubDate>Fri, 25 Apr 2025 19:37:29 -0400</pubDate>
-      <guid>https://bell1101.github.io/marumado/contacto/</guid>
+      <guid>http://localhost:1313/marumado/contacto/</guid>
       <description>&lt;p&gt;Este es un sitio web creado con Higo. ¿Te gusta?&lt;/p&gt;&#xA;&lt;p&gt;Seguro que encontraras en HUgo una herramienta excelente para desarrollar sitios de&#xA;contenido.&lt;/p&gt;&#xA;&lt;p&gt;Es super poderoso!!&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Rapido&lt;/li&gt;&#xA;&lt;li&gt;Versatil&lt;/li&gt;&#xA;&lt;li&gt;Potente&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>
