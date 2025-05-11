@@ -1,6 +1,6 @@
 baseURL = "https://bell1101.github.io/marumado/"
 languageCode = 'en-us'
-title = 'My Site'
+title = 'Lo Mejor de Lo Peor'
 theme = 'tale'
 
 [menu]
@@ -18,4 +18,10 @@ theme = 'tale'
         title = "Posts"
         url = "/posts/"
         weight = 0
+
+[params]
+  css = ["css/estilos.css"]
+ 
+[params.Author]
+  name = "Armando Huanca Caceres <3"
 
