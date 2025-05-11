@@ -1,15 +1,21 @@
 +++
 date = '2025-04-25T19:37:29-04:00'
 draft = false
-title = 'MARUMADO'
+title = 'REQUISITOS PARA CUALQUIER GAME'
 +++
 
-Este es un sitio web creado con Higo. ¿Te gusta?
+## ⚙️ Requisitos del Sistema
 
-Seguro que encontraras en HUgo UNA HERRAMIENTA PARA DEMOSTRAR QUE PUEDES HAKEAR A LA NASSA OKNO PERO ENSERIO NECESITAS MUCHO PODER
+**Mínimos:**
+- SO: Windows 7/8/10 (64-bit)
+- CPU: Intel Core i5
+- RAM: 8 GB
+- GPU: NVIDIA GTX 660
+- Espacio: 60 GB
 
-Es super poderoso!!
+**Recomendados:**
+- CPU: Intel Core i7
+- RAM: 16 GB
+- GPU: GTX 1060 o superior
 
-- Rapido
-- Versatil 
-- Potente
+---
